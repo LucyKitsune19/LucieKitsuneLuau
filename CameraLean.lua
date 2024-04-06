@@ -1,7 +1,8 @@
 --[[
+
 This script has to be placed in a local script.
 Edited by LucieKitsune
-This is not optimized, if you want to edit it. Do at your will.
+This is poorly optimized, if you want to edit it. Do at your will.
 
 ]]
 
